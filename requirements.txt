@@ -1,0 +1,7 @@
+# requirements.txt
+
+# 用於單元測試
+pytest
+
+# 用於程式碼風格檢查 (Linting)
+flake8
