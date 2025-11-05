@@ -15,4 +15,4 @@ def test_subtract():
 # 故意留下一個失敗的測試 (用於 pytest)
 def test_add_negative_bug():
     # 這個 assert 應該是 -2，但我們故意寫 -3
-    assert add(-1, -1) == -3
+    assert add(-1, -1) == -2
