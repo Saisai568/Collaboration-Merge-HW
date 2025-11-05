@@ -1,3 +1,3 @@
 # Collaboration-Merge-HW
 
-fast-forward
+fast-forward example
